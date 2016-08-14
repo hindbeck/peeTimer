@@ -1,0 +1,25 @@
+{
+  "uuid": "d1e6b27e-2777-439b-8882-4480e12c5486",
+  "shortName": "Viktor",
+  "longName": "Viktors klocka",
+  "companyName": "ViktorsKissklocka",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt", "chalk"],
+  "enableMultiJS": true,
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+      {
+        "type": "font",
+        "name": "ANIMAL_FONT_32",
+        "file": "AnimalComedians.ttf"
+      }
+    ]
+  }
+}
