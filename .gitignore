@@ -1,6 +1,6 @@
 # Ignore build generated files
 build
-DS_Store
+.DS_Store
 
 # Ignore waf lock file
 .lock-waf*
