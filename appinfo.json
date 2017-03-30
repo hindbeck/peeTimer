@@ -1,9 +1,9 @@
 {
   "uuid": "d1e6b27e-2777-439b-8882-4480e12c5486",
-  "shortName": "Viktor",
-  "longName": "Viktors klocka",
-  "companyName": "ViktorsKissklocka",
-  "versionLabel": "1.0",
+  "shortName": "PeeTimer",
+  "longName": "PeeTimer with animals",
+  "companyName": "MyPeeTimer",
+  "versionLabel": "0.01",
   "sdkVersion": "3",
   "targetPlatforms": ["aplite", "basalt", "chalk"],
   "enableMultiJS": true,
@@ -14,12 +14,17 @@
     "dummy": 0
   },
   "resources": {
-    "media": [
-      {
-        "type": "font",
-        "name": "ANIMAL_FONT_32",
-        "file": "AnimalComedians.ttf"
-      }
+      "media": [
+        {
+          "type": "bitmap",
+          "name": "ANIMAL1",
+          "file": "images/confirm.png"
+        },
+       {
+         "type": "font",
+         "name": "ANIMAL_FONT_32",
+         "file": "AnimalComedians.ttf"
+       }
     ]
   }
 }
