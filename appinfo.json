@@ -15,11 +15,6 @@
   },
   "resources": {
       "media": [
-        {
-          "type": "bitmap",
-          "name": "ANIMAL1",
-          "file": "images/confirm.png"
-        },
        {
          "type": "font",
          "name": "ANIMAL_FONT_32",
